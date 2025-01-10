@@ -7,15 +7,9 @@ A simple React, Vite, and Node.js monorepo built with Yarn workspaces. Uses Fire
 ### 1. Clone this repository, then `cd` into the directory
 
 ```shell
-  git clone https://github.com/ctc-uci/npo-template-merged.git
-  cd npo-template-merged
+  https://github.com/blockchainuci/decentralized-rental-marketplace.git
+  cd decentralized-rental-marketplace
 ```
-
-> [!WARNING]
-> If you're a developer, you probably won't be cloning `npo-template-merged`. Replace `npo-template-merged` with the name of your team's repository.
-
-> [!TIP]
-> `npo-template-merged` is a template repository. [You can create a copy through Github.](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
 ### 2. Install dependencies
 
