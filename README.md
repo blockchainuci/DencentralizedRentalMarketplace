@@ -1,4 +1,4 @@
-# NPO Template Merged
+# Decentralized Rental Marketplace
 
 A simple React, Vite, and Node.js monorepo built with Yarn workspaces. Uses Firebase for authentication, Chakra UI for components, and your choice of database (i.e. Postgres).
 
